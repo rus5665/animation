@@ -8,7 +8,7 @@ import {
 
 const { height } = Dimensions.get('window')
 
-export default class Stagger extends Component {
+export default class Sequence extends Component {
 
   state = {
     animatedValueOne: new Animated.Value(0),
