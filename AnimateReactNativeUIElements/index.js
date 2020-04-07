@@ -3,7 +3,7 @@
  */
 
 import { AppRegistry } from 'react-native';
-import App from './src/screens/Rotation';
+import App from './src/screens/Sequence';
 import { name as appName } from './app.json';
 
 AppRegistry.registerComponent(appName, () => App);
